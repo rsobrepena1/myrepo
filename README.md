@@ -2,7 +2,7 @@
 some more
 # Objective: Retrieving sequence data from NCBI
 
-# Step 1: Go to NCBI link for Donor 1 (2dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896360
+ Step 1: Go to NCBI link for Donor 1 (2dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896360
 # Step 2: Click the link to the Run ID that corresponds to the transcriptome
 # Step 3: Click the Data access tab
 # Step 4: Copy the link of the SRA Normalized data using the command line with the wget command
